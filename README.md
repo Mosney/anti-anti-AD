@@ -13,7 +13,7 @@ Update：
 --
 
 - 反复横跳的[gentlyxu语录总结](Quotations.md)
-- [其它质疑的声音](/OthersVoice.md) (仅限在404之前被记录下的)  
+- [其它质疑的声音](/OthersVoices.md) (仅限在404之前被记录下的)  
 业余整理难免疏漏，欢迎通过issue投稿或直接发起PR，推荐使用[Archive](https://archive.md/)[服务](https://web.archive.org/)存档相关页面
 - 相关讨论：
   - https://github.com/AdguardTeam/AdGuardHome/issues/1988
