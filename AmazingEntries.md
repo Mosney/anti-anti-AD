@@ -1,0 +1,5 @@
+## [神奇的屏蔽条目](/AmazingEntries.md) (目前来源仅限issue区反馈出的，实际列表中还有多少这样的条目不得而知)
+###### 业余整理难免疏漏，欢迎通过issue投稿或直接发起PR，推荐使用[Archive](https://archive.md/)[服务](https://web.archive.org/)存档相关页面
+-  [issue #242](https://github.com/privacy-protection-tools/anti-AD/issues/242) [误杀] slashdot.org（[Archive存档](https://archive.md/akA1F)）<details><summary>[Slashdot](https://slashdot.org/)</summary>Slashdot是一个信息技术网站，每天以博客的形式在主页发表科技资讯，所有的新闻都源于网友投稿，经编辑筛选后发表，文中会附上源新闻的链接。via [Wikipedia](https://zh.wikipedia.org/wiki/Slashdot)</details>
+-  [issue #230](https://github.com/privacy-protection-tools/anti-AD/issues/230) 聊天應用程序被阻止（[Archive存档](https://archive.md/A0ArI)）<details><summary>[Zalo](https://zalo.me/)</summary>Zalo是在移动和计算机平台上运行的多功能应用程序，已在越南，美国，缅甸，日本，台湾，韩国，马来西亚，沙特阿拉伯，安哥拉，斯里兰卡，捷克共和国，俄罗斯提供服务。via [Wikipedia](https://vi.wikipedia.org/wiki/Zalo)</details>
+-  [issue #227](https://github.com/privacy-protection-tools/anti-AD/issues/227) [误杀]woniu.com（[Archive存档](https://archive.md/c9QZo)）<details><summary>[蜗牛数字](http://www.snail.com/)</summary>苏州蜗牛数字科技股份有限公司（简称：蜗牛）成立于2000年，是中国最早的3D虚拟数字技术研发企业。via [百度百科](https://baike.baidu.com/item/苏州蜗牛数字科技股份有限公司/5356262)</details>
