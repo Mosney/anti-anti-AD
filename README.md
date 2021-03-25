@@ -1,3 +1,4 @@
+
 ### 本repo存在的意义完全在于[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD "privacy-protection-tools/anti-AD")及其目前的维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")
 ###### 创建这个repo的目的是为了提醒打算或正在使用此列表的用户了解一下维护者的所作所为再做决定是否要承担风险继续使用。
 <br/>
@@ -9,10 +10,14 @@
 但是我依然持与对待GFW相同的观点：<strong>我可以不去看，但我去看的权利不能被轻易剥夺。</strong>  
 </p>
 
+---
+
+>[文末Tips传送门](#tips)
 
 
 Update：
 -- 
+
 [![Anti anti-AD](https://img.shields.io/badge/Anti-anti--AD-da282a?style=flat-square)](https://github.com/Mosney/anti-anti-AD)
 [![GitHub issues](https://img.shields.io/github/issues/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/issues)
 [![Fork on GitHub](https://img.shields.io/github/forks/Mosney/anti-anti-AD.svg?style=flat-square)](https://github.com/Mosney/anti-anti-AD/fork)
@@ -94,15 +99,21 @@ TLDR（太长不看版）：
 --
 [neoHost](https://github.com/neoFelhz/neohosts "neoHost")自由、克制、负责的理念，私甚以为然。不知各位看官看到这里是否依然选择继续使用这个夹杂着维护者个人喜好的“去广告列表”呢？这种行为跟**[yhost](https://github.com/vokins/yhosts)曾经**因个人喜恶屏蔽一号店、海信、魅族、Flyme、探探、淘宝、京东联盟等网站的[行为](https://github.com/vokins/yhosts/wiki/%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E)别无二致。[gentlyxu](https://github.com/gentlyxu "gentlyxu")作为一个主打广告屏蔽和隐私保护列表的唯一维护者，在列表中暗自加料做替别人选择这种份外的事情居然还沾沾自喜，拿着大部分都是来源于其它既有列表的数据厚颜自我加冕，号称是“目前中文区命中率最高的广告过滤列表”，既无德也不知耻。你可能同我一样，正常情况下根本就不会去访问被[gentlyxu](https://github.com/gentlyxu "gentlyxu")“加料”的“轮媒”及其相关的网站，但是我依然持与对待GFW相同的观点：**我可以不去看，但我去看的权利不能被轻易剥夺。**
 
-**最后推荐一些其它优秀且同样具有屏蔽广告、防止追踪等功能的列表：**
-- [乘风广告过滤规则](https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt)
-- [乘风视频广告过滤](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt)
-- [大圣净化](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)  SSR去广告规则/GFWList规则/Clash规则碎片
-- [AdGuard Simplified Domain names filter](https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/gh-pages/Filters/rules.txt)  AdGuardHome 使用的默认列表
-- [AdAway](https://github.com/AdAway/adaway.github.io/raw/master/hosts.txt)  AdAway是使用hosts文件的Android开源广告拦截器
-- [malwaredomainlist](https://www.malwaredomainlist.com/hostslist/hosts.txt) malwaredomainlist恶意软件域列表是一个非商业社区项目
-- [由 NextDNS 收集的各种用途的列表](https://github.com/nextdns/metadata/tree/master/privacy/blocklists)  也可在[NextDNS控制台](https://my.nextdns.io/xxxxxx/privacy)中查看
+Tips
+--
+**推荐一些其它优秀且同样具有屏蔽广告、防止追踪等功能的列表：**
+- 乘风广告过滤规则 https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+- 乘风视频广告过滤 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+- 大圣净化内置列表 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+- 神机规则AdGuardFilter https://github.com/DivineEngine/AdGuardFilter
+- cjx82630/cjxlist https://github.com/cjx82630/cjxlist
+- ACL4SSR/ACL4SSR https://github.com/ACL4SSR/ACL4SSR
+- AdGuard Simplified Domain names filter https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/gh-pages/Filters/rules.txt
+- AdAway https://github.com/AdAway/adaway.github.io/raw/master/hosts.txt
+- NextDNS收集的第三方列表 https://github.com/nextdns/metadata/tree/master/privacy/blocklists
+  也可在`NextDNS-隐私-拦截列表`中查看
+- NextDNS维护的系统级跟踪列表 https://github.com/nextdns/metadata/tree/master/privacy/native
+  也可在`NextDNS-隐私-深度跟踪保护`中查看
 - ~~[neoFelhz/neohosts](https://github.com/neoFelhz/neohosts)  自由·负责·克制 去广告 Hosts 项目~~ `缺乏维护`
 - ~~[vokins/yhosts](https://github.com/vokins/yhosts)  已由[VeleSila/yhosts](https://github.com/VeleSila/yhosts)接手~~ `同样包含主观条目`
 
@@ -110,67 +121,44 @@ TLDR（太长不看版）：
 ***若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源***  
 *使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件路径*
 
-**不在墙内的用户更推荐直接使用[NextDNS](https://nextdns.io/)，更加方便快捷，进可按需定制，退可一键傻瓜化，其中也包含了众多不同用途的屏蔽列表可供按需求自由选择，当然也可以单独拿出来在其它地方使用。**  
-> https://github.com/nextdns/metadata/tree/master/privacy/blocklists
+**不在墙内的用户更推荐直接使用[NextDNS](https://nextdns.io/)，更加方便快捷，进可按需定制，退可一键傻瓜化，其中也包含了众多不同用途的屏蔽列表可供按需求自由选择，当然这些列表/规则也可以单独拿出来在其它软件如AdGuardHome中使用。  
+（注意：从2021年3月4日起，DoT(DNS over TLS)标准所定义的853端口被GFW全面封禁，截至本文更新时DoH(DNS over Https)尚且堪用，请墙内用户在使用NextDNS时不要选择DoT方式。）**  
+
+
+> https://github.com/nextdns/metadata/tree/master/privacy/blocklists （NextDNS收集的第三方列表）
+> https://github.com/nextdns/metadata/tree/master/privacy/native （NextDNS维护的系统级跟踪列表）
 > ![image](https://user-images.githubusercontent.com/22477230/84682770-b8cb1d00-af68-11ea-8baa-6a24d84f02d6.png)
 
-下面直接给出AdGuardHome的配置文件filter部分，包含大量列表来源，适合懒人直接复制粘贴，请根据需要做出取舍。实际上一两个综合性的规则列表就已足够覆盖大部分情况，在过滤列表上完全没有必要贪多,使用过多列表反而更容易碰上误伤且不好排查具体来自哪个来源。
+
+最后直接给出AdGuardHome的配置文件filter部分，包含大量列表来源。**不推荐直接使用**，仅适合懒人直接复制粘贴，请根据需要做出取舍。实际上一两个综合性的规则列表就已足够覆盖大部分情况，在过滤列表上完全没有必要贪多,使用过多列表反而更容易碰上误伤且可能存在多个误伤来源。
 
 ```
 filters:
 - enabled: false
-  url: https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts.txt
-  name: neohosts
-  id: 1596593476
+  url: https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt
+  name: Connershua
+  id: 1598771028
 - enabled: false
-  url: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
-  name: yhost
-  id: 1596593477
-- enabled: true
-  url: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-  name: 大圣净化
-  id: 1596593478
-- enabled: true
-  url: https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
-  name: 乘风广告过滤规则
-  id: 1596593479
-- enabled: true
-  url: https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
-  name: 乘风视频广告过滤
-  id: 1596593480
-- enabled: true
-  url: https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
-  name: CJX’s Annoyance List
-  id: 1596593481
-- enabled: true
-  url: https://easylist.to/easylist/easylist.txt
-  name: easylist
-  id: 1596595437
-- enabled: true
-  url: https://easylist-downloads.adblockplus.org/easylistchina.txt
-  name: easylistchina
-  id: 1596595441
-- enabled: true
-  url: https://easylist.to/easylist/easyprivacy.txt
-  name: easyprivacy
-  id: 1596595438
-- enabled: true
-  url: https://easylist.to/easylist/fanboy-annoyance.txt
-  name: fanboy-annoyance
-  id: 1596595439
-- enabled: true
   url: https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
   name: ADgk
   id: 1596595440
-- enabled: true
-  url: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-  name: Adblock Warning Removal List
-  id: 1596595442
-- enabled: true
-  url: https://www.i-dont-care-about-cookies.eu/abp/
-  name: I don't care about cookies
-  id: 1596595443
-- enabled: true
+- enabled: false
+  url: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+  name: 大圣净化
+  id: 1596593478
+- enabled: false
+  url: https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+  name: 乘风广告过滤规则
+  id: 1596593479
+- enabled: false
+  url: https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+  name: 乘风视频广告过滤
+  id: 1596593480
+- enabled: false
+  url: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+  name: CJX’s Annoyance List
+  id: 1596593481
+- enabled: false
   url: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
   name: AdAway default blocklist
   id: 1596596474
@@ -178,45 +166,93 @@ filters:
   url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   name: AdGuard DNS filter
   id: 1596596475
+- enabled: false
+  url: https://easylist.to/easylist/easylist.txt
+  name: easylist
+  id: 1596595437
+- enabled: false
+  url: https://easylist-downloads.adblockplus.org/easylistchina.txt
+  name: easylistchina
+  id: 1596595441
+- enabled: false
+  url: https://easylist.to/easylist/easyprivacy.txt
+  name: easyprivacy
+  id: 1596595438
+- enabled: false
+  url: https://easylist.to/easylist/fanboy-annoyance.txt
+  name: fanboy-annoyance
+  id: 1596595439
 - enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/alexa
+  name: alexa
+  id: 1101
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+  name: apple
+  id: 1102
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+  name: huawei
+  id: 1103
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/roku
+  name: roku
+  id: 1104
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+  name: samsung
+  id: 1105
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/sonos
+  name: sonos
+  id: 1106
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+  name: windows
+  id: 1107
+- enabled: true
+  url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
+  name: xiaomi
+  id: 1108
+- enabled: false
+  url: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+  name: Adblock Warning Removal List
+  id: 1596595442
+- enabled: false
+  url: https://www.i-dont-care-about-cookies.eu/abp/
+  name: I don't care about cookies
+  id: 1596595443
+- enabled: false
+  url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+  name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+  id: 1616687617
+- enabled: false
   url: https://someonewhocares.org/hosts/zero/hosts
   name: Dan Pollock's List
   id: 1596596476
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
   name: Scam Blocklist by DurableNapkin
   id: 1596596477
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
   name: Game Console Adblock List
-  id: 1596596478
-- enabled: true
-  url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
-  name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
   id: 1596596479
-- enabled: true
+- enabled: false
   url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
   name: Peter Lowe's List
   id: 1596596480
-- enabled: true
-  url: https://www.malwaredomainlist.com/hostslist/hosts.txt
-  name: MalwareDomainList.com Hosts List
-  id: 1596596481
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
   name: NoCoin Filter List
   id: 1596596482
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
   name: Spam404
   id: 1596596483
-- enabled: true
+- enabled: false
   url: https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
   name: The Big List of Hacked Malware Web Sites
   id: 1596596484
-whitelist_filters:
-- enabled: true
-  url: https://raw.githubusercontent.com/Mosney/AGHfilter/master/whitelist.txt
-  name: whitelist
-  id: 1596596485
+
 ```
