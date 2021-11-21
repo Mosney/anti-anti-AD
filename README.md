@@ -10,14 +10,6 @@
 但是我依然持与对待GFW相同的观点：<strong>我可以不去看，但我去看的权利不能被轻易剥夺。</strong>  
 </p>
 
----
-
->[文末Tips传送门](#tips)
-
-
-Update：
--- 
-
 [![Anti anti-AD](https://img.shields.io/badge/Anti-anti--AD-da282a?style=flat-square)](https://github.com/Mosney/anti-anti-AD)
 [![GitHub issues](https://img.shields.io/github/issues/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/issues)
 [![Fork on GitHub](https://img.shields.io/github/forks/Mosney/anti-anti-AD.svg?style=flat-square)](https://github.com/Mosney/anti-anti-AD/fork)
@@ -25,13 +17,17 @@ Update：
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)](https://twitter.com/intent/tweet?text=%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86anti-anti-AD:&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)
 [![Star on GitHub](https://img.shields.io/github/stars/Mosney/anti-anti-AD.svg?style=social)](https://github.com/Mosney/anti-anti-AD/)
 
+Update：
+-- 
+
 - 反复横跳的[gentlyxu语录总结](/Quotations.md)
 - [其它质疑的声音](/OthersVoices.md) (仅限在404之前被记录下的)  
 - [神奇的屏蔽条目](/AmazingEntries.md) (目前来源仅限issue区反馈出的，实际列表中还有多少这样的条目不得而知)
-- 相关讨论：
-  - https://github.com/AdguardTeam/AdGuardHome/issues/1988
-  - https://github.com/collinbarrett/FilterLists/issues/1674
-  - https://github.com/badmojr/1Hosts/issues/22
+- <details><summary>相关讨论：</summary>
+    https://github.com/AdguardTeam/AdGuardHome/issues/1988<br>
+    https://github.com/collinbarrett/FilterLists/issues/1674<br>
+    https://github.com/badmojr/1Hosts/issues/22<br>
+</details>
 
 TLDR（太长不看版）：
 --
