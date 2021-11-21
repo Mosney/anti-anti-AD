@@ -31,7 +31,7 @@ Update：
 
 TLDR（太长不看版）：
 --
-**鉴于原repo所有者喜欢删帖，此处给出以下图片[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.md/W1ttN)**  
+**鉴于原repo所有者喜欢删帖，此处给出以下图片[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.vn/W1ttN)**  
 ###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
 
 ![image](https://user-images.githubusercontent.com/22477230/84666132-48fe6780-af53-11ea-96cc-fe8104b766e6.png)
@@ -77,7 +77,7 @@ TLDR（太长不看版）：
 令人瞠目的是，就在几个月前曾经信誓旦旦的表示坚决摒弃夹带私货的行为（见上图），现如今居然会用`“是的。并且不会被加白。本人亦极其厌恶SB轮子”`这样简单粗暴的话语作为对自己加料行为的回应。尽管如此，这个[issue #140](https://github.com/privacy-protection-tools/anti-AD/issues/140)还是吸引了其它人前来表达自己的看法，由于最终此issue被[gentlyxu](https://github.com/gentlyxu "gentlyxu")删除，只能通过邮件提醒一窥当时的comment：
 ![image](https://user-images.githubusercontent.com/22477230/83049623-0cd79580-a07e-11ea-94e6-40914c17ca69.png)
 
-最开始觉得这个列表虽然名字和介绍都颇为妄诞，但是整体上质量不错，可以拿来一用，特别是维护者处理反馈和更新列表都很勤快，让人颇有信心。也正是如此我也从其它没有包含的列表当中搜集没有覆盖到的域名[提交上去](https://github.com/privacy-protection-tools/anti-AD/issues?q=is:issue+author:Mosney)（[Archive存档](https://archive.md/GaD1Y)），也有在积极的反馈误伤。但是等我看到邮件点击进issue的时候，只剩下了GitHub的404页，现在再回头看维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")几个月前信誓旦旦踌躇满志的话只能用可笑来形容。
+最开始觉得这个列表虽然名字和介绍都颇为妄诞，但是整体上质量不错，可以拿来一用，特别是维护者处理反馈和更新列表都很勤快，让人颇有信心。也正是如此我也从其它没有包含的列表当中搜集没有覆盖到的域名[提交上去](https://github.com/privacy-protection-tools/anti-AD/issues?q=is:issue+author:Mosney)（[Archive存档](https://archive.vn/GaD1Y)），也有在积极的反馈误伤。但是等我看到邮件点击进issue的时候，只剩下了GitHub的404页，现在再回头看维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")几个月前信誓旦旦踌躇满志的话只能用可笑来形容。
 >我特别希望大家各抒己见。anti-AD是综合著名过滤列表的广告屏蔽、隐私保护工具，所有上游源列表都同等的并且持续的处于考察状态，发现夹带私货并且anti-AD无法修正的情况时，将会剔除此上游列表，不管它有多么著名，多么权威。我始终相信总有一群人，愿意靠自己的力量，创造属于心中理想的完美乌托邦。而开源让这一切成为了可能！
 
 于是就又开了个[issue #145](https://github.com/privacy-protection-tools/anti-AD/issues/145)（[Archive存档](https://archive.vn/J4TKt) ） ，当然这个issue也自然是难逃被直接删除的命运。
@@ -89,7 +89,7 @@ TLDR（太长不看版）：
 > 或者  
 > **8.本规定一切解释权归 @gentlyxu 所有**  
 
-当然，必不可少的事后吃瓜链接还是要有：[https://archive.md/0cD6C](https://archive.md/0cD6C)（不知道大家看我提的建议吼不吼哇？）
+当然，必不可少的事后吃瓜链接还是要有：[https://archive.vn/0cD6C](https://archive.vn/0cD6C)（不知道大家看我提的建议吼不吼哇？）
 
 结尾
 --
