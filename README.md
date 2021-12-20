@@ -114,8 +114,10 @@ Tips
 - ~~[vokins/yhosts](https://github.com/vokins/yhosts)  已由[VeleSila/yhosts](https://github.com/VeleSila/yhosts)接手~~ `同样包含主观条目`
 
 
-***若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源***  
-*使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件路径*
+~~若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源~~
+~~使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件路径~~
+
+
 
 **不在墙内的用户更推荐直接使用[NextDNS](https://nextdns.io/)，更加方便快捷，进可按需定制，退可一键傻瓜化，其中也包含了众多不同用途的屏蔽列表可供按需求自由选择，当然这些列表/规则也可以单独拿出来在其它软件如AdGuardHome中使用。  
 （注意：从2021年3月4日起，DoT(DNS over TLS)标准所定义的853端口被GFW全面封禁，截至本文更新时DoH(DNS over Https)尚且堪用，请墙内用户在使用NextDNS时不要选择DoT方式。）**  
