@@ -114,8 +114,9 @@ Tips
 - ~~[vokins/yhosts](https://github.com/vokins/yhosts)  已由[VeleSila/yhosts](https://github.com/VeleSila/yhosts)接手~~ `同样包含主观条目`
 
 
-~~若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源~~
-~~使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件路径~~
+~~若GitHub访问受限可使用具有中国大陆地区网络的[jsDelivr](http://www.jsdelivr.com/)加速列表源~~  
+~~使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/文件路径~~  
+2021年12月更新：jsDelivr在中国的ICP备案意外消失，网宿关闭了jsDelivr的账户，目前其在中国的CDN已切换到Cloudflare与Fastly。[官方声明原文](https://twitter.com/jsDelivr/status/1472870623051456522)。因此其服务未来大概率会不可用，如有需要请寻找[其它方案](https://ghproxy.com/)替代。
 
 
 
