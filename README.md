@@ -39,7 +39,9 @@ TLDR（太长不看版）：
 
 **鉴于原repo所有者喜欢删帖，此处给出以上截图[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.vn/W1ttN)**  
 ###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
-###### (至于gentlyxu的[诽谤](https://github.com/privacy-protection-tools/anti-AD/issues/146#issuecomment-782793465)，不管是我提供的截图还是事实上我都没有骂人，我可以提供Github自动邮件记录证明这一点，另外我也跟上述提到的法轮功及其旗下的媒体没有任何关系，其域名仅作为anti-AD被加料的例证而提出（因当时gentlyxu声称‘发现夹带私货会主动剔除’故开issue告知），我本人对此是毫无立场的，不知真正气急败坏急着删issue、扣轮子帽子、稻草人攻击的人是谁呢？)  
+
+至于gentlyxu的[诽谤](https://github.com/privacy-protection-tools/anti-AD/issues/146#issuecomment-782793465)，不管是我提供的截图还是事实上我都没有骂人，我可以提供Github自动邮件记录证明这一点，另外我也跟上述提到的法轮功及其旗下的媒体没有任何关系，其域名仅作为anti-AD被加料的例证而提出（因当时gentlyxu声称‘发现夹带私货会主动剔除’故开issue告知），我本人对此是毫无立场的，不知真正气急败坏急着删issue、扣轮子帽子、稻草人攻击的人是谁呢？还望gentlyxu下次评判他人时拿出证据，而不是信口开河。在立场先行的当下还劝各位，如若吃瓜也要吃全瓜，切莫仅听一面之词。
+
 
 此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")README：
 > <img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
