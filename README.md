@@ -20,22 +20,25 @@
 Update：
 -- 
 
-- 反复横跳的[gentlyxu语录总结](/Quotations.md)
+- **反复横跳的[gentlyxu语录总结](/Quotations.md)**
 - [其它质疑的声音](/OthersVoices.md) (仅限在404之前被记录下的)  
 - [神奇的屏蔽条目](/AmazingEntries.md) (目前来源仅限issue区反馈出的，实际列表中还有多少这样的条目不得而知)
 - <details><summary>相关讨论：</summary>
     https://github.com/AdguardTeam/AdGuardHome/issues/1988<br>
     https://github.com/collinbarrett/FilterLists/issues/1674<br>
     https://github.com/badmojr/1Hosts/issues/22<br>
+
+
 </details>
 
 TLDR（太长不看版）：
 --
-**鉴于原repo所有者喜欢删帖，此处给出以下图片[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.vn/W1ttN)**  
-###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
-
+**本文主要揭露anti-AD的主要维护者gentlyxu一边标榜不夹带私货，一边往列表中加料的自我矛盾行为**
 ![image](https://user-images.githubusercontent.com/22477230/84666132-48fe6780-af53-11ea-96cc-fe8104b766e6.png)
 ![image](https://user-images.githubusercontent.com/22477230/84666526-c4601900-af53-11ea-95c7-13495837d670.png)
+
+**鉴于原repo所有者喜欢删帖，此处给出以上截图[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.vn/W1ttN)**  
+###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
 
 此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")README：
 > <img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
