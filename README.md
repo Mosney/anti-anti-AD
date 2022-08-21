@@ -1,14 +1,9 @@
 
-### 本repo存在的意义完全在于[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD "privacy-protection-tools/anti-AD")及其目前的维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")
-###### 创建这个repo的目的是为了提醒打算或正在使用此列表的用户了解一下维护者的所作所为再做决定是否要承担风险继续使用。
+#### 本仓库存在的意义是为了揭露[anti-AD](https://github.com/privacy-protection-tools/anti-AD "privacy-protection-tools/anti-AD")列表实际包含内容与其所宣称不符的事实与其维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")言行不一的行为。
+###### 创建这个仓库的目的是提醒打算或正在使用此列表的用户，了解其主要维护者的行为，从而作为是否使用此列表的参考。
 <br/>
 
-<p align="center">
-可能我这辈子都<strong>根本不会去访问</strong>这些藏在列表深处的“加料”网站， 
-</p>
-<p align="center">
-但是我依然持与对待GFW相同的观点：<strong>我可以不去看，但我去看的权利不能被轻易剥夺。</strong>  
-</p>
+
 
 [![Anti anti-AD](https://img.shields.io/badge/Anti-anti--AD-da282a?style=flat-square)](https://github.com/Mosney/anti-anti-AD)
 [![GitHub issues](https://img.shields.io/github/issues/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/issues)
@@ -16,6 +11,7 @@
 [![GitHub license](https://img.shields.io/github/license/Mosney/anti-anti-AD?style=flat-square)](https://github.com/Mosney/anti-anti-AD/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)](https://twitter.com/intent/tweet?text=%E6%88%91%E5%9C%A8GitHub%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86anti-anti-AD:&url=https%3A%2F%2Fgithub.com%2FMosney%2Fanti-anti-AD)
 [![Star on GitHub](https://img.shields.io/github/stars/Mosney/anti-anti-AD.svg?style=social)](https://github.com/Mosney/anti-anti-AD/)
+    
 
 Update：
 -- 
@@ -27,9 +23,14 @@ Update：
     https://github.com/AdguardTeam/AdGuardHome/issues/1988<br>
     https://github.com/collinbarrett/FilterLists/issues/1674<br>
     https://github.com/badmojr/1Hosts/issues/22<br>
-
-
 </details>
+
+
+#### 关于gentlyxu的[“刻意误导与恶意揣测”](https://github.com/privacy-protection-tools/anti-AD/issues/146#issuecomment-782793465)
+
+- 不管是截图中所展示的还是事实上我从未如其声称般“骂人”，还望gentlyxu下次陈述他人行为时像我一样拿出证据，而不是信口开河妄图用“尬黑”“做文章”来证明自己行为的正义性。  
+- 虽然面对稻草人攻击不应陷入不断自证的逻辑陷阱，但我还是澄清一下我与法轮功及其旗下的媒体没有任何关系，其相关域名仅作为anti-AD被加料的例证而提出（因彼时anti-AD宣称“发现夹带私货会主动剔除”故开issue提醒，没想到gentlyxu对“私货”的定义如此灵活），我本人对法轮功是毫无立场的，不知真正“气急败坏”地“尬黑”、删除issue、扣轮子帽子、稻草人攻击、“非蠢即坏”的是谁呢？
+- 希望各位围观看客勿立场先行、理性讨论，发表自己的看法和观点前请先完整阅读所有记录了解事情来龙去脉，而非在仅获得偏颇之词的情况下就迫不及待地发表偏离主题重点的言论，也请友好交流，勿对他人进行人身攻击，**你的言行举止一定程度上代表了与你所持立场相同人的底色**。 
 
 TLDR（太长不看版）：
 --
@@ -40,7 +41,6 @@ TLDR（太长不看版）：
 **鉴于原repo所有者喜欢删帖，此处给出以上截图[出处](https://github.com/privacy-protection-tools/anti-AD/issues/10 "出处")和[Archive存档](https://archive.is/W1ttN)**  
 ###### (由于当时没有想到讨论会以404的方式终结，故第二张图对应的[issue](https://github.com/privacy-protection-tools/anti-AD/issues/140)没有存档，只有GitHub的回复邮件提醒可供一窥)  
 
-至于gentlyxu的[诽谤](https://github.com/privacy-protection-tools/anti-AD/issues/146#issuecomment-782793465)，不管是我提供的截图还是事实上我都没有骂人，我可以提供Github自动邮件记录证明这一点，另外我也跟上述提到的法轮功及其旗下的媒体没有任何关系，其域名仅作为anti-AD被加料的例证而提出（因当时gentlyxu声称‘发现夹带私货会主动剔除’故开issue告知），我本人对此是毫无立场的，不知真正气急败坏急着删issue、扣轮子帽子、稻草人攻击的人是谁呢？还望gentlyxu下次评判他人时拿出证据，而不是信口开河。在立场先行的当下还劝各位，如若吃瓜也要吃全瓜，切莫仅听一面之词。
 
 
 此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")README：
@@ -59,12 +59,12 @@ TLDR（太长不看版）：
 
 完整故事线：
 --
-在五月的某一天，偶然发现正在使用的过滤器列表[anti-AD](https://github.com/privacy-protection-tools/anti-AD "anti-AD")夹杂了不属于广告、追踪以及隐私风险的域名，遂到此列表repo下开启了一个[issue #140](https://github.com/privacy-protection-tools/anti-AD/issues/140)询问：
+在五月的某一天，偶然发现正在使用的过滤器列表[anti-AD](https://github.com/privacy-protection-tools/anti-AD "anti-AD")夹杂了**不属于广告、追踪以及隐私风险的域名**，遂到此列表repo下开启了一个[issue #140](https://github.com/privacy-protection-tools/anti-AD/issues/140)询问：
 > ## 请问针对法轮功等域名的黑名单是从上游引入的吗？ (#140)    
 >   
 > 看到几个法轮功域名被过滤，请问是从上游某个列表引入的吗？
 > 这些条目不符合[README](https://github.com/privacy-protection-tools/anti-AD/blob/master/README.md)中所述的用途，建议移除条目或添加说明。
-> 此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")的做法，即创建多个版本的列表并在README中明确标识：
+> 此处引用[neoHost](https://github.com/neoFelhz/neohosts "neoHost")的做法，即**创建多个版本的列表并在README中明确标识**：
 > > ### [Full Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts)
 >> 
 >> 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
@@ -83,7 +83,7 @@ TLDR（太长不看版）：
 令人瞠目的是，就在几个月前曾经信誓旦旦的表示坚决摒弃夹带私货的行为（见上图），现如今居然会用`“是的。并且不会被加白。本人亦极其厌恶SB轮子”`这样简单粗暴的话语作为对自己加料行为的回应。尽管如此，这个[issue #140](https://github.com/privacy-protection-tools/anti-AD/issues/140)还是吸引了其它人前来表达自己的看法，由于最终此issue被[gentlyxu](https://github.com/gentlyxu "gentlyxu")删除，只能通过邮件提醒一窥当时的comment：
 ![image](https://user-images.githubusercontent.com/22477230/83049623-0cd79580-a07e-11ea-94e6-40914c17ca69.png)
 
-最开始觉得这个列表虽然名字和介绍都颇为妄诞，但是整体上质量不错，可以拿来一用，特别是维护者处理反馈和更新列表都很勤快，让人颇有信心。也正是如此我也从其它没有包含的列表当中搜集没有覆盖到的域名[提交上去](https://github.com/privacy-protection-tools/anti-AD/issues?q=is:issue+author:Mosney)（[Archive存档](https://archive.is/GaD1Y)），也有在积极的反馈误伤。但是等我看到邮件点击进issue的时候，只剩下了GitHub的404页，现在再回头看维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")几个月前信誓旦旦踌躇满志的话只能用可笑来形容。
+个人最开始觉得这个列表虽然名字和介绍都颇为妄诞，但是整体上质量不错，可以拿来一用，特别是维护者处理反馈和更新列表都很勤快，让人颇有信心。也正是如此我也从其它来源[积极参与维护提交](https://github.com/privacy-protection-tools/anti-AD/issues?q=is:issue+author:Mosney)（[Archive存档](https://archive.is/GaD1Y)），也有在积极的反馈误伤。但是等我看到通知邮件点击进issue的时候，却只剩下了GitHub的404页，现在再回头看维护者[gentlyxu](https://github.com/gentlyxu "gentlyxu")几个月前信誓旦旦踌躇满志的话只能用可笑来形容。
 >我特别希望大家各抒己见。anti-AD是综合著名过滤列表的广告屏蔽、隐私保护工具，所有上游源列表都同等的并且持续的处于考察状态，发现夹带私货并且anti-AD无法修正的情况时，将会剔除此上游列表，不管它有多么著名，多么权威。我始终相信总有一群人，愿意靠自己的力量，创造属于心中理想的完美乌托邦。而开源让这一切成为了可能！
 
 于是就又开了个[issue #145](https://github.com/privacy-protection-tools/anti-AD/issues/145)（[Archive存档](https://archive.is/J4TKt) ） ，当然这个issue也自然是难逃被直接删除的命运。
@@ -99,7 +99,7 @@ TLDR（太长不看版）：
 
 结尾
 --
-[neoHost](https://github.com/neoFelhz/neohosts "neoHost")自由、克制、负责的理念，私甚以为然。不知各位看官看到这里是否依然选择继续使用这个夹杂着维护者个人喜好的“去广告列表”呢？这种行为跟**[yhost](https://github.com/vokins/yhosts)曾经**因个人喜恶屏蔽一号店、海信、魅族、Flyme、探探、淘宝、京东联盟等网站的[行为](https://github.com/vokins/yhosts/wiki/%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E)别无二致。[gentlyxu](https://github.com/gentlyxu "gentlyxu")作为一个主打广告屏蔽和隐私保护列表的唯一维护者，在列表中暗自加料做替别人选择这种份外的事情居然还沾沾自喜，拿着大部分都是来源于其它既有列表的数据厚颜自我加冕，号称是“目前中文区命中率最高的广告过滤列表”，既无德也不知耻。你可能同我一样，正常情况下根本就不会去访问被[gentlyxu](https://github.com/gentlyxu "gentlyxu")“加料”的“轮媒”及其相关的网站，但是我依然持与对待GFW相同的观点：**我可以不去看，但我去看的权利不能被轻易剥夺。**
+[neoHost](https://github.com/neoFelhz/neohosts "neoHost")自由、克制、负责的理念，私甚以为然。不知各位看官看到这里是否依然选择继续使用这个夹杂着维护者个人喜好的“去广告列表”呢？这种行为较[yhosts](https://github.com/vokins/yhosts)**曾经**因个人喜恶屏蔽一号店、海信、魅族、Flyme、探探、淘宝、京东联盟等网站的行为是更为甚之的，至少yhosts维护者是[有针对这些行为公开说明了的](https://github.com/vokins/yhosts/wiki/%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E)。[gentlyxu](https://github.com/gentlyxu "gentlyxu")作为一个主打广告屏蔽和隐私保护列表的唯一维护者，在列表中暗自加料做替别人选择这种份外的事情居然还沾沾自喜，拿着大部分都是来源于其它既有列表的数据厚颜自我加冕，号称是“目前中文区命中率最高的广告过滤列表”，既无德也不知耻。你可能同我一样，正常情况下根本就不会去访问被[gentlyxu](https://github.com/gentlyxu "gentlyxu")“加料”的“轮媒”及其相关的网站，但是我依然持与对待GFW相同的观点：**我可以不去看，但我去看的权利不能被轻易剥夺。**
 
 Tips
 --
